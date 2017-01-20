@@ -1,0 +1,15 @@
+{
+  "name": "knex_practice",
+  "version": "1.0.0",
+  "description": "practicing knex",
+  "main": ".",
+  "scripts": {
+    "test": "HELP"
+  },
+  "author": "Matt Seaton",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.12.6",
+    "pg": "^6.1.0"
+  }
+}
